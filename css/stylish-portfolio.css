@@ -100,7 +100,7 @@ h6 {
 }
 
 .masthead h1 {
-  font-size: 4rem;
+  font-size: 2rem;
   margin: 0;
   padding: 0;
 }
@@ -108,6 +108,9 @@ h6 {
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
+  }
+  .masthead h1 {
+    font-size: 4rem;
   }
 }
 
