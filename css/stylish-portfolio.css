@@ -389,3 +389,7 @@ a:hover, a:focus, a:active {
   position: relative;
   left: 1em;
 }
+
+.services-main h3 {
+  font-size: 28px !important;
+}
