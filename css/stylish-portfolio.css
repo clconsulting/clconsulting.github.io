@@ -109,9 +109,6 @@ h6 {
   .masthead {
     height: 100vh;
   }
-  .masthead h1 {
-    font-size: 5.5rem;
-  }
 }
 
 /* Side Menu */
@@ -209,22 +206,6 @@ h6 {
   line-height: 7.5rem;
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
-}
-
-.work-section-icon {
-  background-color: #fff;
-  color: #1D809F;
-  height: 7rem;
-  width: 7rem;
-  display: block;
-  line-height: 7.5rem;
-  font-size: 2.25rem;
-  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
-}
-
-.work-section-icon i {
-  position: relative;
-  left: 1em;
 }
 
 .callout {
