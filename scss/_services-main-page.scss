@@ -3,3 +3,29 @@
         font-size: 28px !important;
     }
 }
+
+.services-main {
+    .row {
+        .col-lg-6 {
+            img {
+                width: 32em;
+                height: 32em;
+                margin-bottom: 1em;
+            }
+        }
+    }
+}
+
+@media(max-width: 368px) {
+    .services-main, .services-main-header {
+        .row {
+            .col-lg-6 {
+                img {
+                    width: 21em !important;
+                    height: 21em !important;
+                    margin-bottom: 1em;
+                }
+            }
+        }
+    }
+}
